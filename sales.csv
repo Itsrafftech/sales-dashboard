@@ -1,0 +1,501 @@
+Order ID,Tanggal,Produk,Kategori,Region,Qty,Harga Satuan,Diskon,Revenue,Profit,Status
+ORD-1000,2023-04-15,Kopi,Food & Beverage,Bali,1,2357113,0.0,2357113,393551,Selesai
+ORD-1001,2024-06-01,Minuman Energi,Food & Beverage,Bali,1,299957,0.0,299957,49670,Selesai
+ORD-1002,2023-10-12,Teh,Food & Beverage,Jawa,9,3569187,0.0,32122683,7541208,Selesai
+ORD-1003,2023-12-11,Minuman Energi,Food & Beverage,Jawa,6,2380953,0.0,14285718,2351345,Selesai
+ORD-1004,2023-02-14,Sepatu,Fashion,Sulawesi,6,2935309,0.1,15850669,2842917,Dibatalkan
+ORD-1005,2024-09-25,Tablet,Electronics,Kalimantan,2,4680852,0.0,9361704,3265563,Dibatalkan
+ORD-1006,2023-03-23,Laptop,Electronics,Sumatera,1,1961749,0.2,1569399,293189,Selesai
+ORD-1007,2023-08-03,Tas,Fashion,Kalimantan,8,3110434,0.0,24883472,5251764,Selesai
+ORD-1008,2023-10-04,Teh,Food & Beverage,Bali,9,2103622,0.0,18932598,4518796,Selesai
+ORD-1009,2023-11-20,Snack,Food & Beverage,Sulawesi,1,1971394,0.2,1577115,172899,Selesai
+ORD-1010,2024-02-10,Smartphone,Electronics,Sulawesi,10,2689709,0.0,26897090,7978527,Selesai
+ORD-1011,2024-08-21,Jaket,Fashion,Sulawesi,4,4759097,0.1,17132749,3063721,Dibatalkan
+ORD-1012,2023-02-18,Tas,Fashion,Jawa,4,1210410,0.1,4357476,1080893,Selesai
+ORD-1013,2024-04-24,Teh,Food & Beverage,Bali,7,582909,0.05,3876345,831421,Selesai
+ORD-1014,2024-10-18,Kopi,Food & Beverage,Kalimantan,2,4554433,0.2,7287093,1312023,Selesai
+ORD-1015,2023-09-27,Kaos,Fashion,Bali,3,3856110,0.0,11568330,4467050,Selesai
+ORD-1016,2024-01-18,Kopi,Food & Beverage,Sumatera,5,4308584,0.1,19388628,3095847,Dibatalkan
+ORD-1017,2024-01-07,Kopi,Food & Beverage,Kalimantan,10,2769218,0.05,26307571,2784473,Selesai
+ORD-1018,2023-03-12,Smartphone,Electronics,Bali,10,710662,0.0,7106620,2271079,Selesai
+ORD-1019,2024-09-13,Tablet,Electronics,Sulawesi,9,1435185,0.0,12916665,3336402,Selesai
+ORD-1020,2024-03-24,Teh,Food & Beverage,Bali,5,3396989,0.15,14437203,4258447,Diproses
+ORD-1021,2024-07-21,Smartphone,Electronics,Sumatera,4,587088,0.0,2348352,249654,Dibatalkan
+ORD-1022,2023-02-02,Laptop,Electronics,Kalimantan,2,543868,0.0,1087736,130768,Selesai
+ORD-1023,2024-08-07,Teh,Food & Beverage,Bali,5,4121951,0.0,20609755,5395019,Diproses
+ORD-1024,2024-03-17,Tablet,Electronics,Kalimantan,7,1647274,0.0,11530918,1488402,Diproses
+ORD-1025,2023-12-14,Kaos,Fashion,Jawa,1,875588,0.0,875588,193318,Selesai
+ORD-1026,2023-10-13,Smartphone,Electronics,Sulawesi,9,3813243,0.0,34319187,7775509,Selesai
+ORD-1027,2024-07-07,Tablet,Electronics,Jawa,9,871317,0.0,7841853,2318393,Selesai
+ORD-1028,2024-02-15,Smartphone,Electronics,Jawa,7,4123853,0.05,27423622,4500880,Selesai
+ORD-1029,2023-10-20,Sepatu,Fashion,Sulawesi,7,2274684,0.2,12738230,4274171,Dibatalkan
+ORD-1030,2023-03-01,Minuman Energi,Food & Beverage,Bali,3,1642978,0.0,4928934,814803,Dibatalkan
+ORD-1031,2024-06-27,Headphone,Electronics,Sumatera,1,470624,0.1,423562,102941,Selesai
+ORD-1032,2023-08-29,Kopi,Food & Beverage,Sulawesi,3,624798,0.1,1686955,203090,Selesai
+ORD-1033,2024-11-04,Teh,Food & Beverage,Bali,10,383377,0.1,3450393,429902,Dibatalkan
+ORD-1034,2023-09-02,Snack,Food & Beverage,Kalimantan,5,1763450,0.15,7494662,2359751,Diproses
+ORD-1035,2023-01-10,Headphone,Electronics,Sulawesi,8,2702286,0.2,17294630,6584417,Dibatalkan
+ORD-1036,2023-05-16,Kopi,Food & Beverage,Kalimantan,2,4560004,0.0,9120008,2296103,Selesai
+ORD-1037,2024-12-21,Headphone,Electronics,Kalimantan,5,1373276,0.05,6523061,2283877,Dibatalkan
+ORD-1038,2023-04-17,Coklat,Food & Beverage,Sumatera,1,4702341,0.0,4702341,1784664,Selesai
+ORD-1039,2023-08-04,Laptop,Electronics,Kalimantan,9,1353991,0.0,12185919,2248630,Selesai
+ORD-1040,2023-02-22,Snack,Food & Beverage,Jawa,9,4148102,0.0,37332918,13872948,Diproses
+ORD-1041,2023-09-26,Sepatu,Fashion,Sumatera,1,2848075,0.2,2278460,317266,Diproses
+ORD-1042,2024-12-08,Minuman Energi,Food & Beverage,Sumatera,9,131115,0.0,1180035,144641,Dibatalkan
+ORD-1043,2023-02-12,Headphone,Electronics,Kalimantan,10,4684916,0.0,46849160,10725460,Selesai
+ORD-1044,2024-07-27,Headphone,Electronics,Sulawesi,4,2143207,0.15,7286904,953405,Dibatalkan
+ORD-1045,2024-02-27,Teh,Food & Beverage,Jawa,4,1413163,0.2,4522122,1552135,Selesai
+ORD-1046,2024-12-19,Snack,Food & Beverage,Jawa,7,2131777,0.0,14922439,2204930,Diproses
+ORD-1047,2023-12-25,Tablet,Electronics,Kalimantan,4,1724138,0.2,5517242,2071920,Selesai
+ORD-1048,2023-03-13,Laptop,Electronics,Kalimantan,4,3392574,0.0,13570296,2491247,Selesai
+ORD-1049,2023-04-29,Coklat,Food & Beverage,Kalimantan,7,4548103,0.0,31836721,12154341,Selesai
+ORD-1050,2023-11-18,Snack,Food & Beverage,Sulawesi,1,959346,0.1,863411,198903,Dibatalkan
+ORD-1051,2024-12-26,Kopi,Food & Beverage,Sulawesi,7,4886771,0.0,34207397,6034758,Selesai
+ORD-1052,2024-11-11,Coklat,Food & Beverage,Kalimantan,4,3105311,0.05,11800182,1427729,Dibatalkan
+ORD-1053,2023-12-01,Sepatu,Fashion,Sulawesi,5,4304051,0.0,21520255,6457537,Selesai
+ORD-1054,2024-11-24,Teh,Food & Beverage,Sumatera,4,3576959,0.15,12161661,4647081,Dibatalkan
+ORD-1055,2023-10-21,Snack,Food & Beverage,Sumatera,7,4646430,0.2,26020008,2605170,Diproses
+ORD-1056,2023-08-07,Coklat,Food & Beverage,Bali,6,3950603,0.05,22518437,5238868,Diproses
+ORD-1057,2024-09-26,Teh,Food & Beverage,Kalimantan,2,2430572,0.1,4375030,1308817,Selesai
+ORD-1058,2023-09-08,Headphone,Electronics,Sulawesi,4,1720422,0.0,6881688,738595,Dibatalkan
+ORD-1059,2024-01-29,Tablet,Electronics,Sulawesi,7,4879077,0.0,34153539,10775570,Diproses
+ORD-1060,2023-06-30,Smartphone,Electronics,Bali,1,944119,0.2,755295,171863,Diproses
+ORD-1061,2024-04-20,Smartwatch,Electronics,Bali,4,1068029,0.05,4058510,568198,Dibatalkan
+ORD-1062,2024-07-15,Snack,Food & Beverage,Sulawesi,8,4284386,0.05,32561334,11369465,Selesai
+ORD-1063,2024-10-14,Minuman Energi,Food & Beverage,Kalimantan,8,2224256,0.2,14235238,2479379,Dibatalkan
+ORD-1064,2023-08-29,Jaket,Fashion,Kalimantan,5,3739918,0.0,18699590,5872858,Selesai
+ORD-1065,2024-12-11,Celana,Fashion,Sumatera,2,1210765,0.0,2421530,410155,Selesai
+ORD-1066,2023-03-05,Tablet,Electronics,Sumatera,7,2825634,0.1,17801494,4268394,Diproses
+ORD-1067,2023-12-27,Celana,Fashion,Kalimantan,1,4879240,0.05,4635278,1126808,Diproses
+ORD-1068,2024-03-22,Celana,Fashion,Sulawesi,9,1900012,0.05,16245103,2693868,Selesai
+ORD-1069,2023-05-11,Tas,Fashion,Bali,7,1434495,0.2,8033172,1929705,Dibatalkan
+ORD-1070,2024-10-20,Tablet,Electronics,Sulawesi,10,4784463,0.15,40667936,4397449,Selesai
+ORD-1071,2024-04-10,Jaket,Fashion,Kalimantan,1,2232349,0.05,2120732,420341,Selesai
+ORD-1072,2023-01-20,Tas,Fashion,Bali,7,2166206,0.2,12130754,1511151,Selesai
+ORD-1073,2023-09-11,Jaket,Fashion,Sumatera,2,387709,0.2,620334,67808,Selesai
+ORD-1074,2024-07-31,Teh,Food & Beverage,Sumatera,4,1108818,0.05,4213508,1267582,Diproses
+ORD-1075,2023-04-28,Snack,Food & Beverage,Sumatera,6,1457517,0.1,7870592,2220878,Selesai
+ORD-1076,2024-01-20,Smartwatch,Electronics,Sulawesi,1,2666887,0.1,2400198,727750,Selesai
+ORD-1077,2024-12-01,Smartwatch,Electronics,Bali,4,904810,0.15,3076354,1020563,Selesai
+ORD-1078,2023-03-12,Kopi,Food & Beverage,Bali,6,4518991,0.05,25758249,7687714,Selesai
+ORD-1079,2024-10-12,Tablet,Electronics,Sulawesi,8,935324,0.05,7108462,2759763,Selesai
+ORD-1080,2024-07-05,Jaket,Fashion,Sulawesi,9,2315615,0.1,18756482,6423340,Diproses
+ORD-1081,2023-03-30,Celana,Fashion,Kalimantan,5,2753686,0.2,11014744,1912694,Diproses
+ORD-1082,2023-11-29,Tablet,Electronics,Sumatera,10,3229192,0.0,32291920,3507225,Diproses
+ORD-1083,2024-12-19,Headphone,Electronics,Kalimantan,5,2904969,0.0,14524845,5288438,Dibatalkan
+ORD-1084,2024-05-15,Smartwatch,Electronics,Bali,4,768173,0.0,3072692,971039,Selesai
+ORD-1085,2023-10-29,Minuman Energi,Food & Beverage,Sumatera,8,3809560,0.2,24381184,2564242,Diproses
+ORD-1086,2024-06-27,Teh,Food & Beverage,Kalimantan,5,4928441,0.0,24642205,5962875,Diproses
+ORD-1087,2023-11-10,Coklat,Food & Beverage,Kalimantan,6,3001200,0.15,15306120,3614136,Selesai
+ORD-1088,2024-12-07,Smartphone,Electronics,Sumatera,6,1052897,0.15,5369775,1400218,Selesai
+ORD-1089,2023-10-17,Tablet,Electronics,Jawa,5,4995813,0.2,19983252,5143510,Selesai
+ORD-1090,2024-06-30,Jaket,Fashion,Sumatera,6,1555264,0.0,9331584,972766,Selesai
+ORD-1091,2024-10-15,Laptop,Electronics,Sulawesi,9,2500619,0.15,19129735,7331029,Selesai
+ORD-1092,2023-07-08,Smartwatch,Electronics,Jawa,5,3987586,0.05,18941034,4396984,Selesai
+ORD-1093,2024-10-06,Sepatu,Fashion,Jawa,2,3411377,0.05,6481616,792213,Selesai
+ORD-1094,2024-03-02,Smartwatch,Electronics,Bali,5,764549,0.0,3822745,518118,Dibatalkan
+ORD-1095,2023-11-01,Teh,Food & Beverage,Bali,9,3240842,0.05,27709199,10323099,Diproses
+ORD-1096,2023-04-12,Celana,Fashion,Sumatera,10,555248,0.1,4997232,1939089,Selesai
+ORD-1097,2023-06-10,Sepatu,Fashion,Jawa,3,2062134,0.0,6186402,1643094,Diproses
+ORD-1098,2024-12-24,Celana,Fashion,Kalimantan,8,2493260,0.0,19946080,3379721,Diproses
+ORD-1099,2023-07-22,Smartphone,Electronics,Sulawesi,5,4997513,0.15,21239430,7246293,Selesai
+ORD-1100,2023-03-03,Teh,Food & Beverage,Sumatera,3,2278286,0.2,5467886,780108,Selesai
+ORD-1101,2023-11-08,Coklat,Food & Beverage,Sulawesi,5,3733886,0.0,18669430,4492040,Selesai
+ORD-1102,2024-03-18,Coklat,Food & Beverage,Kalimantan,8,3722187,0.0,29777496,8320160,Dibatalkan
+ORD-1103,2024-08-12,Sepatu,Fashion,Bali,2,1970357,0.15,3349607,1175001,Selesai
+ORD-1104,2024-04-26,Snack,Food & Beverage,Bali,10,387487,0.2,3099896,1013296,Diproses
+ORD-1105,2023-04-04,Jaket,Fashion,Sulawesi,10,3706468,0.15,31504978,10846329,Selesai
+ORD-1106,2024-02-26,Tas,Fashion,Sulawesi,6,927447,0.2,4451746,659960,Selesai
+ORD-1107,2023-09-16,Minuman Energi,Food & Beverage,Kalimantan,9,357837,0.05,3059506,386776,Selesai
+ORD-1108,2023-07-12,Celana,Fashion,Bali,1,4601604,0.05,4371524,979109,Selesai
+ORD-1109,2023-05-15,Minuman Energi,Food & Beverage,Kalimantan,8,482950,0.0,3863600,695900,Diproses
+ORD-1110,2023-09-03,Minuman Energi,Food & Beverage,Sumatera,2,292174,0.15,496696,140397,Selesai
+ORD-1111,2023-04-27,Kopi,Food & Beverage,Sulawesi,9,3472473,0.0,31252257,5231947,Selesai
+ORD-1112,2024-03-01,Teh,Food & Beverage,Sulawesi,8,2498312,0.1,17987846,5605435,Diproses
+ORD-1113,2024-09-05,Tablet,Electronics,Bali,9,1263344,0.05,10801591,1697828,Selesai
+ORD-1114,2023-01-03,Headphone,Electronics,Kalimantan,7,2901080,0.2,16246048,4099224,Selesai
+ORD-1115,2023-12-20,Coklat,Food & Beverage,Kalimantan,8,1296508,0.05,9853461,2577411,Dibatalkan
+ORD-1116,2024-12-15,Minuman Energi,Food & Beverage,Sumatera,8,2749264,0.2,17595290,2755347,Dibatalkan
+ORD-1117,2024-12-23,Jaket,Fashion,Sulawesi,7,416140,0.0,2912980,942091,Diproses
+ORD-1118,2024-08-27,Teh,Food & Beverage,Kalimantan,8,360543,0.0,2884344,723069,Selesai
+ORD-1119,2024-02-24,Sepatu,Fashion,Sumatera,9,3882990,0.0,34946910,11068845,Selesai
+ORD-1120,2023-12-03,Tas,Fashion,Bali,6,3384331,0.15,17260088,2141884,Diproses
+ORD-1121,2024-10-08,Kaos,Fashion,Kalimantan,9,351143,0.1,2844258,342808,Selesai
+ORD-1122,2023-04-13,Kopi,Food & Beverage,Sulawesi,7,875800,0.2,4904480,1422909,Selesai
+ORD-1123,2023-10-28,Snack,Food & Beverage,Kalimantan,1,435800,0.0,435800,147668,Selesai
+ORD-1124,2023-07-04,Jaket,Fashion,Sumatera,4,4505746,0.05,17121835,4619102,Selesai
+ORD-1125,2023-05-27,Smartwatch,Electronics,Sumatera,7,2070226,0.05,13767003,5146776,Diproses
+ORD-1126,2024-04-21,Snack,Food & Beverage,Kalimantan,8,2191835,0.15,14904478,1532467,Dibatalkan
+ORD-1127,2024-03-10,Laptop,Electronics,Kalimantan,8,2948814,0.1,21231461,4028591,Diproses
+ORD-1128,2024-08-08,Jaket,Fashion,Kalimantan,7,4103443,0.0,28724101,4916466,Dibatalkan
+ORD-1129,2024-12-03,Tas,Fashion,Jawa,1,3370259,0.0,3370259,345214,Dibatalkan
+ORD-1130,2023-08-13,Minuman Energi,Food & Beverage,Sumatera,5,1980372,0.1,8911674,3035134,Dibatalkan
+ORD-1131,2023-02-04,Jaket,Fashion,Bali,2,380700,0.0,761400,256274,Selesai
+ORD-1132,2023-06-29,Teh,Food & Beverage,Sumatera,2,2525565,0.0,5051130,1637800,Selesai
+ORD-1133,2023-09-21,Snack,Food & Beverage,Sulawesi,9,4259359,0.0,38334231,13384082,Selesai
+ORD-1134,2023-08-20,Snack,Food & Beverage,Sulawesi,2,3978648,0.0,7957296,1131743,Dibatalkan
+ORD-1135,2024-04-10,Sepatu,Fashion,Kalimantan,7,166758,0.0,1167306,304634,Selesai
+ORD-1136,2023-01-26,Minuman Energi,Food & Beverage,Bali,6,958872,0.15,4890247,832059,Dibatalkan
+ORD-1137,2024-12-18,Celana,Fashion,Kalimantan,4,580302,0.15,1973027,684949,Diproses
+ORD-1138,2023-04-29,Smartphone,Electronics,Jawa,1,362157,0.0,362157,144420,Selesai
+ORD-1139,2024-12-14,Teh,Food & Beverage,Bali,7,3855439,0.0,26988073,8127347,Diproses
+ORD-1140,2024-02-22,Teh,Food & Beverage,Kalimantan,7,880653,0.2,4931657,1217153,Selesai
+ORD-1141,2024-01-07,Snack,Food & Beverage,Jawa,4,3769366,0.05,14323591,5516968,Selesai
+ORD-1142,2023-05-06,Snack,Food & Beverage,Sulawesi,1,3389837,0.0,3389837,532010,Selesai
+ORD-1143,2023-09-07,Teh,Food & Beverage,Sumatera,10,229159,0.0,2291590,770062,Dibatalkan
+ORD-1144,2023-08-27,Laptop,Electronics,Kalimantan,9,1787761,0.1,14480864,2386235,Selesai
+ORD-1145,2023-06-28,Kopi,Food & Beverage,Jawa,5,1263730,0.0,6318650,1655895,Selesai
+ORD-1146,2023-06-28,Laptop,Electronics,Kalimantan,6,2045914,0.1,11047936,2177895,Selesai
+ORD-1147,2024-04-04,Tablet,Electronics,Kalimantan,9,1003359,0.15,7675696,913925,Dibatalkan
+ORD-1148,2023-02-14,Kopi,Food & Beverage,Bali,8,4276505,0.0,34212040,13124583,Selesai
+ORD-1149,2024-12-03,Sepatu,Fashion,Jawa,1,4067991,0.2,3254393,717545,Diproses
+ORD-1150,2023-03-09,Minuman Energi,Food & Beverage,Sumatera,2,727719,0.0,1455438,411146,Selesai
+ORD-1151,2024-06-27,Coklat,Food & Beverage,Kalimantan,9,2777853,0.05,23750643,9461979,Diproses
+ORD-1152,2024-11-01,Coklat,Food & Beverage,Bali,7,881969,0.2,4939026,1533735,Selesai
+ORD-1153,2024-02-13,Kaos,Fashion,Sulawesi,4,3521319,0.0,14085276,4904856,Selesai
+ORD-1154,2024-12-04,Kaos,Fashion,Sulawesi,6,2188170,0.0,13129020,5068823,Selesai
+ORD-1155,2024-01-17,Laptop,Electronics,Sumatera,2,3672842,0.0,7345684,2375423,Dibatalkan
+ORD-1156,2024-02-25,Smartwatch,Electronics,Kalimantan,9,4761741,0.0,42855669,12899727,Diproses
+ORD-1157,2024-06-03,Kopi,Food & Beverage,Sumatera,5,2671011,0.0,13355055,1750583,Selesai
+ORD-1158,2024-01-12,Minuman Energi,Food & Beverage,Jawa,4,957801,0.0,3831204,1354760,Selesai
+ORD-1159,2024-09-20,Teh,Food & Beverage,Bali,7,4755721,0.2,26632038,9202116,Selesai
+ORD-1160,2023-11-13,Snack,Food & Beverage,Kalimantan,1,1563439,0.0,1563439,485932,Selesai
+ORD-1161,2023-05-26,Smartphone,Electronics,Jawa,3,4800645,0.15,12241645,2696042,Selesai
+ORD-1162,2023-06-11,Coklat,Food & Beverage,Kalimantan,4,3205747,0.05,12181839,2876056,Selesai
+ORD-1163,2024-09-24,Snack,Food & Beverage,Jawa,10,762671,0.0,7626710,1118640,Selesai
+ORD-1164,2023-10-07,Kaos,Fashion,Sumatera,7,4124025,0.1,25981358,6043608,Dibatalkan
+ORD-1165,2024-08-30,Headphone,Electronics,Sulawesi,7,980210,0.0,6861470,2082219,Dibatalkan
+ORD-1166,2023-02-26,Snack,Food & Beverage,Jawa,1,1899842,0.05,1804850,713518,Selesai
+ORD-1167,2023-01-08,Jaket,Fashion,Sulawesi,3,2193452,0.0,6580356,1305784,Diproses
+ORD-1168,2024-07-26,Smartphone,Electronics,Kalimantan,7,4517624,0.15,26879863,4543590,Selesai
+ORD-1169,2023-11-17,Sepatu,Fashion,Bali,7,207215,0.05,1377980,518601,Diproses
+ORD-1170,2023-11-29,Minuman Energi,Food & Beverage,Sumatera,7,2478629,0.0,17350403,3843282,Dibatalkan
+ORD-1171,2024-03-22,Tas,Fashion,Bali,2,3713403,0.2,5941445,782838,Diproses
+ORD-1172,2023-12-08,Kopi,Food & Beverage,Sumatera,7,2652771,0.15,15783987,3186061,Selesai
+ORD-1173,2023-12-24,Kopi,Food & Beverage,Kalimantan,9,4327787,0.0,38950083,14480738,Selesai
+ORD-1174,2023-06-06,Laptop,Electronics,Jawa,3,2197217,0.0,6591651,1002259,Selesai
+ORD-1175,2024-11-28,Minuman Energi,Food & Beverage,Bali,8,4778955,0.2,30585312,8375495,Dibatalkan
+ORD-1176,2024-10-08,Tas,Fashion,Kalimantan,3,3738997,0.0,11216991,2699664,Selesai
+ORD-1177,2024-04-07,Kopi,Food & Beverage,Jawa,6,4305850,0.0,25835100,4989335,Selesai
+ORD-1178,2024-01-29,Tas,Fashion,Sulawesi,2,807461,0.1,1453430,404379,Dibatalkan
+ORD-1179,2024-09-11,Kopi,Food & Beverage,Sulawesi,8,4845403,0.15,32948740,5155550,Dibatalkan
+ORD-1180,2023-12-18,Laptop,Electronics,Jawa,8,918236,0.2,5876710,2172843,Dibatalkan
+ORD-1181,2024-03-25,Teh,Food & Beverage,Bali,1,2128224,0.15,1808990,418469,Dibatalkan
+ORD-1182,2023-12-13,Teh,Food & Beverage,Bali,6,3177709,0.0,19066254,4122600,Selesai
+ORD-1183,2024-01-31,Snack,Food & Beverage,Kalimantan,2,2815646,0.0,5631292,1505745,Selesai
+ORD-1184,2023-05-25,Coklat,Food & Beverage,Kalimantan,3,2846443,0.0,8539329,2346794,Selesai
+ORD-1185,2024-10-20,Minuman Energi,Food & Beverage,Kalimantan,3,760674,0.0,2282022,610844,Selesai
+ORD-1186,2024-01-07,Coklat,Food & Beverage,Kalimantan,2,3601790,0.1,6483222,1352066,Selesai
+ORD-1187,2023-06-08,Headphone,Electronics,Jawa,8,1660656,0.0,13285248,5314006,Selesai
+ORD-1188,2024-09-24,Smartwatch,Electronics,Sumatera,9,4466867,0.0,40201803,12003405,Dibatalkan
+ORD-1189,2024-10-01,Jaket,Fashion,Sumatera,3,1567045,0.2,3760908,1157809,Diproses
+ORD-1190,2024-04-04,Tablet,Electronics,Sumatera,6,2042547,0.05,11642518,3296912,Dibatalkan
+ORD-1191,2024-08-07,Headphone,Electronics,Sulawesi,8,1677525,0.0,13420200,4072924,Diproses
+ORD-1192,2023-07-24,Kaos,Fashion,Bali,9,4474653,0.05,38258283,14916156,Selesai
+ORD-1193,2024-12-29,Sepatu,Fashion,Bali,8,3163952,0.1,22780454,8663135,Selesai
+ORD-1194,2023-05-31,Sepatu,Fashion,Sulawesi,3,2338339,0.05,6664266,2476387,Selesai
+ORD-1195,2024-05-29,Tablet,Electronics,Kalimantan,6,273725,0.05,1560232,180951,Selesai
+ORD-1196,2023-04-12,Sepatu,Fashion,Kalimantan,6,1933567,0.0,11601402,2269298,Selesai
+ORD-1197,2024-12-23,Laptop,Electronics,Sulawesi,5,4013239,0.15,17056266,5958319,Diproses
+ORD-1198,2023-06-03,Kopi,Food & Beverage,Bali,2,209416,0.0,418832,68980,Dibatalkan
+ORD-1199,2023-02-18,Minuman Energi,Food & Beverage,Sumatera,2,2466771,0.0,4933542,939077,Diproses
+ORD-1200,2024-05-26,Coklat,Food & Beverage,Bali,8,576864,0.0,4614912,1619863,Dibatalkan
+ORD-1201,2024-03-15,Smartwatch,Electronics,Jawa,10,2079524,0.15,17675954,2528953,Dibatalkan
+ORD-1202,2023-03-29,Jaket,Fashion,Bali,10,3544422,0.0,35444220,10608859,Selesai
+ORD-1203,2024-07-21,Smartwatch,Electronics,Jawa,9,4305773,0.2,31001566,12292104,Diproses
+ORD-1204,2024-01-01,Sepatu,Fashion,Jawa,7,3181487,0.0,22270409,7219955,Selesai
+ORD-1205,2024-07-13,Laptop,Electronics,Kalimantan,10,2839368,0.0,28393680,3217024,Selesai
+ORD-1206,2024-04-13,Minuman Energi,Food & Beverage,Jawa,8,1579058,0.2,10105971,1419442,Selesai
+ORD-1207,2024-06-11,Laptop,Electronics,Sulawesi,4,401532,0.0,1606128,610347,Dibatalkan
+ORD-1208,2023-02-18,Tas,Fashion,Kalimantan,1,1653091,0.0,1653091,342342,Selesai
+ORD-1209,2024-01-31,Headphone,Electronics,Kalimantan,7,3405625,0.15,20263469,4699524,Selesai
+ORD-1210,2024-03-10,Kaos,Fashion,Jawa,6,4406001,0.0,26436006,8997347,Diproses
+ORD-1211,2023-12-02,Teh,Food & Beverage,Kalimantan,9,2514291,0.0,22628619,2959357,Selesai
+ORD-1212,2024-04-02,Celana,Fashion,Jawa,7,1447917,0.15,8615106,2008806,Selesai
+ORD-1213,2024-02-20,Minuman Energi,Food & Beverage,Kalimantan,5,531154,0.0,2655770,800330,Dibatalkan
+ORD-1214,2024-03-24,Teh,Food & Beverage,Jawa,1,1247720,0.2,998176,281757,Selesai
+ORD-1215,2023-02-03,Smartphone,Electronics,Bali,6,3087939,0.05,17601252,6773668,Selesai
+ORD-1216,2024-08-10,Minuman Energi,Food & Beverage,Sumatera,6,3170674,0.05,18072842,5944616,Dibatalkan
+ORD-1217,2023-01-27,Kaos,Fashion,Sumatera,6,2387819,0.0,14326914,5561078,Diproses
+ORD-1218,2024-12-21,Minuman Energi,Food & Beverage,Sulawesi,9,1037850,0.0,9340650,3105667,Selesai
+ORD-1219,2023-03-17,Snack,Food & Beverage,Sulawesi,8,1729217,0.0,13833736,1946663,Selesai
+ORD-1220,2023-03-08,Minuman Energi,Food & Beverage,Bali,2,2730896,0.15,4642523,948131,Dibatalkan
+ORD-1221,2023-08-18,Tas,Fashion,Jawa,3,1510381,0.2,3624914,755605,Selesai
+ORD-1222,2024-01-13,Smartphone,Electronics,Sulawesi,8,270486,0.0,2163888,576041,Dibatalkan
+ORD-1223,2024-05-05,Smartwatch,Electronics,Bali,2,601535,0.0,1203070,264011,Diproses
+ORD-1224,2024-04-05,Celana,Fashion,Sulawesi,2,1101317,0.0,2202634,644714,Dibatalkan
+ORD-1225,2023-05-13,Jaket,Fashion,Sulawesi,9,4980706,0.0,44826354,14807691,Dibatalkan
+ORD-1226,2023-11-27,Laptop,Electronics,Sumatera,9,1333586,0.0,12002274,1793105,Selesai
+ORD-1227,2024-07-18,Snack,Food & Beverage,Kalimantan,2,2152229,0.0,4304458,1250519,Selesai
+ORD-1228,2023-06-22,Snack,Food & Beverage,Bali,10,4525138,0.0,45251380,11347777,Dibatalkan
+ORD-1229,2023-02-12,Smartphone,Electronics,Jawa,10,2882158,0.2,23057264,8696714,Selesai
+ORD-1230,2024-09-24,Smartwatch,Electronics,Jawa,5,1818388,0.2,7273552,1975796,Diproses
+ORD-1231,2024-12-02,Coklat,Food & Beverage,Sulawesi,5,2584149,0.05,12274708,2129212,Selesai
+ORD-1232,2024-04-20,Sepatu,Fashion,Sumatera,1,1376074,0.05,1307270,293726,Selesai
+ORD-1233,2023-12-20,Teh,Food & Beverage,Sulawesi,6,2728620,0.15,13915962,5516385,Selesai
+ORD-1234,2023-05-06,Celana,Fashion,Kalimantan,9,940735,0.0,8466615,1460672,Diproses
+ORD-1235,2024-09-22,Smartphone,Electronics,Sulawesi,2,474507,0.0,949014,364056,Selesai
+ORD-1236,2024-05-25,Headphone,Electronics,Bali,10,2673242,0.0,26732420,8793266,Diproses
+ORD-1237,2024-06-01,Tas,Fashion,Sulawesi,8,244416,0.0,1955328,750005,Selesai
+ORD-1238,2024-09-03,Smartwatch,Electronics,Sulawesi,6,458174,0.0,2749044,506943,Selesai
+ORD-1239,2024-01-10,Kopi,Food & Beverage,Sulawesi,2,3664884,0.0,7329768,2673436,Selesai
+ORD-1240,2024-07-20,Tablet,Electronics,Kalimantan,1,4833869,0.1,4350482,689102,Selesai
+ORD-1241,2024-09-30,Celana,Fashion,Bali,8,4662535,0.0,37300280,12965331,Selesai
+ORD-1242,2024-07-25,Laptop,Electronics,Kalimantan,7,3180614,0.2,17811438,7053976,Selesai
+ORD-1243,2023-02-09,Smartwatch,Electronics,Sumatera,9,3417078,0.1,27678332,3102090,Selesai
+ORD-1244,2023-05-24,Celana,Fashion,Kalimantan,8,1299404,0.1,9355709,3442335,Dibatalkan
+ORD-1245,2024-06-05,Jaket,Fashion,Bali,7,2560159,0.1,16129002,3240511,Diproses
+ORD-1246,2023-12-06,Coklat,Food & Beverage,Jawa,5,4033687,0.2,16134748,1694005,Diproses
+ORD-1247,2024-08-15,Snack,Food & Beverage,Bali,1,4031151,0.0,4031151,1572638,Selesai
+ORD-1248,2024-09-26,Kopi,Food & Beverage,Sulawesi,10,4080296,0.0,40802960,10497365,Selesai
+ORD-1249,2023-01-20,Teh,Food & Beverage,Sulawesi,1,4853067,0.15,4125107,548510,Selesai
+ORD-1250,2024-09-18,Jaket,Fashion,Sulawesi,7,1760367,0.05,11706441,2933000,Selesai
+ORD-1251,2024-11-09,Teh,Food & Beverage,Sulawesi,9,1789308,0.1,14493395,2862661,Dibatalkan
+ORD-1252,2023-12-29,Tas,Fashion,Kalimantan,3,3905937,0.1,10546030,2137660,Dibatalkan
+ORD-1253,2023-11-01,Jaket,Fashion,Kalimantan,4,2390475,0.1,8605710,1631210,Selesai
+ORD-1254,2023-10-08,Minuman Energi,Food & Beverage,Kalimantan,6,4074882,0.0,24449292,6555987,Selesai
+ORD-1255,2023-05-30,Coklat,Food & Beverage,Kalimantan,7,3359578,0.2,18813637,3829335,Selesai
+ORD-1256,2024-05-05,Sepatu,Fashion,Sumatera,6,3760919,0.15,19180687,3393700,Selesai
+ORD-1257,2024-08-23,Snack,Food & Beverage,Sumatera,9,2328526,0.0,20956734,2782383,Selesai
+ORD-1258,2023-12-05,Smartwatch,Electronics,Sulawesi,4,2003174,0.0,8012696,1042126,Selesai
+ORD-1259,2024-05-02,Teh,Food & Beverage,Sulawesi,1,4666691,0.0,4666691,1036343,Selesai
+ORD-1260,2024-08-10,Tas,Fashion,Sumatera,5,546291,0.2,2185164,277162,Dibatalkan
+ORD-1261,2023-02-07,Kopi,Food & Beverage,Sulawesi,3,3555473,0.2,8533135,1303322,Diproses
+ORD-1262,2023-04-20,Headphone,Electronics,Kalimantan,1,127738,0.0,127738,34539,Selesai
+ORD-1263,2024-04-24,Celana,Fashion,Kalimantan,9,4193237,0.0,37739133,13409390,Selesai
+ORD-1264,2023-07-10,Headphone,Electronics,Jawa,3,3899653,0.15,9944115,1761893,Selesai
+ORD-1265,2024-02-20,Celana,Fashion,Sulawesi,4,1522158,0.1,5479769,1955422,Dibatalkan
+ORD-1266,2024-05-03,Sepatu,Fashion,Kalimantan,7,850148,0.0,5951036,2347717,Selesai
+ORD-1267,2023-12-04,Headphone,Electronics,Kalimantan,7,2025695,0.05,13470872,4393215,Dibatalkan
+ORD-1268,2023-08-30,Coklat,Food & Beverage,Jawa,1,2244066,0.15,1907456,396495,Selesai
+ORD-1269,2024-12-21,Tas,Fashion,Kalimantan,3,3450881,0.15,8799747,2206590,Selesai
+ORD-1270,2024-05-04,Snack,Food & Beverage,Sumatera,6,1902617,0.0,11415702,4420253,Diproses
+ORD-1271,2024-04-27,Coklat,Food & Beverage,Bali,6,3538365,0.15,18045662,4777956,Selesai
+ORD-1272,2024-01-06,Smartwatch,Electronics,Jawa,2,4458269,0.05,8470711,2189272,Dibatalkan
+ORD-1273,2023-06-03,Laptop,Electronics,Sumatera,9,4290332,0.0,38612988,10495416,Selesai
+ORD-1274,2023-04-04,Minuman Energi,Food & Beverage,Bali,2,1773032,0.15,3014154,828725,Diproses
+ORD-1275,2023-03-01,Tablet,Electronics,Bali,3,4355434,0.05,12412987,2942369,Diproses
+ORD-1276,2023-08-12,Snack,Food & Beverage,Bali,1,3371458,0.0,3371458,1162937,Selesai
+ORD-1277,2023-03-12,Tablet,Electronics,Sulawesi,6,584856,0.1,3158222,1257721,Selesai
+ORD-1278,2024-10-23,Kaos,Fashion,Sulawesi,3,1186059,0.2,2846542,832492,Selesai
+ORD-1279,2024-11-08,Kaos,Fashion,Bali,7,3201143,0.0,22408001,6830387,Selesai
+ORD-1280,2023-05-11,Snack,Food & Beverage,Sumatera,2,1547145,0.1,2784861,606870,Selesai
+ORD-1281,2023-08-24,Headphone,Electronics,Sumatera,8,4617138,0.05,35090249,9108730,Diproses
+ORD-1282,2023-02-02,Jaket,Fashion,Sulawesi,5,1631088,0.15,6932124,2285154,Dibatalkan
+ORD-1283,2024-04-02,Smartphone,Electronics,Bali,4,614477,0.0,2457908,683749,Selesai
+ORD-1284,2023-02-27,Laptop,Electronics,Sumatera,7,3732286,0.0,26126002,6843130,Dibatalkan
+ORD-1285,2024-11-19,Jaket,Fashion,Kalimantan,10,2725158,0.1,24526422,6852077,Selesai
+ORD-1286,2023-03-04,Jaket,Fashion,Bali,9,1904240,0.05,16281252,3095885,Dibatalkan
+ORD-1287,2023-12-19,Teh,Food & Beverage,Sulawesi,7,4712813,0.05,31340206,3574828,Dibatalkan
+ORD-1288,2024-07-04,Kaos,Fashion,Sulawesi,7,1301728,0.0,9112096,1940312,Selesai
+ORD-1289,2024-03-02,Headphone,Electronics,Bali,3,3934136,0.0,11802408,3171493,Dibatalkan
+ORD-1290,2023-03-22,Tablet,Electronics,Sulawesi,4,2189058,0.0,8756232,1743181,Selesai
+ORD-1291,2024-09-11,Smartwatch,Electronics,Bali,4,482320,0.0,1929280,411227,Selesai
+ORD-1292,2023-12-07,Smartphone,Electronics,Kalimantan,10,4737977,0.0,47379770,11552053,Selesai
+ORD-1293,2024-12-21,Smartphone,Electronics,Sumatera,2,4067479,0.0,8134958,2511163,Diproses
+ORD-1294,2024-10-26,Smartwatch,Electronics,Kalimantan,6,2424472,0.05,13819490,3314952,Selesai
+ORD-1295,2024-04-25,Tas,Fashion,Kalimantan,9,4221464,0.05,36093517,4677087,Selesai
+ORD-1296,2023-05-30,Tas,Fashion,Jawa,7,433488,0.1,2730974,981036,Selesai
+ORD-1297,2023-12-04,Coklat,Food & Beverage,Sumatera,10,3552898,0.0,35528980,5177405,Diproses
+ORD-1298,2023-12-12,Teh,Food & Beverage,Kalimantan,8,4669124,0.15,31750043,12161516,Diproses
+ORD-1299,2023-06-23,Minuman Energi,Food & Beverage,Sumatera,8,1461246,0.15,9936473,3363423,Dibatalkan
+ORD-1300,2023-03-18,Jaket,Fashion,Jawa,9,542680,0.1,4395708,484175,Selesai
+ORD-1301,2023-08-12,Jaket,Fashion,Bali,4,620156,0.15,2108530,306388,Diproses
+ORD-1302,2023-01-07,Sepatu,Fashion,Bali,10,4103410,0.15,34878985,8592658,Dibatalkan
+ORD-1303,2023-10-21,Sepatu,Fashion,Jawa,1,4491077,0.15,3817415,696381,Dibatalkan
+ORD-1304,2023-09-04,Minuman Energi,Food & Beverage,Sumatera,3,947718,0.0,2843154,731588,Dibatalkan
+ORD-1305,2024-01-18,Snack,Food & Beverage,Sulawesi,6,2292482,0.2,11003914,2410616,Diproses
+ORD-1306,2023-03-24,Teh,Food & Beverage,Jawa,4,2566369,0.15,8725655,3040181,Selesai
+ORD-1307,2023-01-10,Kaos,Fashion,Sumatera,7,4686395,0.05,31164527,3641091,Selesai
+ORD-1308,2024-06-24,Kaos,Fashion,Jawa,6,4796749,0.2,23024395,9029061,Selesai
+ORD-1309,2024-12-01,Smartwatch,Electronics,Kalimantan,8,2324110,0.0,18592880,7014123,Dibatalkan
+ORD-1310,2024-08-24,Kopi,Food & Beverage,Sumatera,3,2688088,0.0,8064264,3132489,Diproses
+ORD-1311,2024-02-03,Headphone,Electronics,Bali,3,4780824,0.0,14342472,3872593,Selesai
+ORD-1312,2023-02-24,Jaket,Fashion,Jawa,2,4250954,0.15,7226622,2834982,Diproses
+ORD-1313,2024-10-11,Laptop,Electronics,Kalimantan,6,3377786,0.2,16213373,3208837,Diproses
+ORD-1314,2024-11-27,Jaket,Fashion,Bali,6,4689216,0.05,26728531,6135652,Diproses
+ORD-1315,2023-10-02,Smartwatch,Electronics,Sumatera,5,2117370,0.15,8998822,1098324,Diproses
+ORD-1316,2023-01-06,Teh,Food & Beverage,Kalimantan,7,2706489,0.0,18945423,2500138,Diproses
+ORD-1317,2024-04-04,Tas,Fashion,Bali,2,1161549,0.0,2323098,362909,Dibatalkan
+ORD-1318,2023-04-06,Minuman Energi,Food & Beverage,Bali,2,270300,0.0,540600,111458,Dibatalkan
+ORD-1319,2023-03-28,Kaos,Fashion,Bali,1,2498193,0.05,2373283,513436,Selesai
+ORD-1320,2023-11-05,Coklat,Food & Beverage,Kalimantan,3,3243811,0.0,9731433,1378477,Diproses
+ORD-1321,2024-05-10,Laptop,Electronics,Jawa,3,3696328,0.0,11088984,2509778,Selesai
+ORD-1322,2023-11-08,Jaket,Fashion,Jawa,8,1690377,0.05,12846865,1696964,Diproses
+ORD-1323,2024-10-28,Celana,Fashion,Bali,7,2814396,0.05,18715733,3751024,Selesai
+ORD-1324,2024-02-12,Tas,Fashion,Kalimantan,10,1734864,0.05,16481208,3201557,Selesai
+ORD-1325,2024-02-07,Minuman Energi,Food & Beverage,Kalimantan,10,2083602,0.0,20836020,4434251,Selesai
+ORD-1326,2024-07-17,Teh,Food & Beverage,Jawa,10,4627068,0.0,46270680,14090060,Diproses
+ORD-1327,2024-02-23,Teh,Food & Beverage,Sulawesi,8,2493863,0.2,15960723,4913518,Selesai
+ORD-1328,2024-03-09,Snack,Food & Beverage,Sulawesi,4,2169647,0.15,7376800,1078805,Selesai
+ORD-1329,2024-12-09,Celana,Fashion,Sulawesi,8,4934216,0.05,37500042,9761644,Dibatalkan
+ORD-1330,2024-11-04,Headphone,Electronics,Kalimantan,9,762880,0.0,6865920,2270465,Selesai
+ORD-1331,2024-02-14,Coklat,Food & Beverage,Kalimantan,1,4774634,0.15,4058439,1230687,Diproses
+ORD-1332,2024-06-15,Laptop,Electronics,Bali,2,2220454,0.0,4440908,1124451,Dibatalkan
+ORD-1333,2024-11-26,Coklat,Food & Beverage,Bali,4,3789461,0.0,15157844,3294410,Dibatalkan
+ORD-1334,2023-03-29,Headphone,Electronics,Jawa,1,4099777,0.0,4099777,773340,Selesai
+ORD-1335,2024-05-09,Tas,Fashion,Kalimantan,6,3869606,0.2,18574109,3010124,Diproses
+ORD-1336,2024-12-28,Tablet,Electronics,Jawa,8,2725206,0.0,21801648,4144040,Selesai
+ORD-1337,2023-06-13,Sepatu,Fashion,Kalimantan,3,2096090,0.1,5659443,862137,Dibatalkan
+ORD-1338,2024-10-17,Kaos,Fashion,Sulawesi,4,3447784,0.15,11722466,1820915,Diproses
+ORD-1339,2023-01-05,Smartwatch,Electronics,Sumatera,4,3821308,0.1,13756709,3148441,Selesai
+ORD-1340,2023-07-11,Sepatu,Fashion,Kalimantan,10,903558,0.2,7228464,2613768,Selesai
+ORD-1341,2024-06-24,Tablet,Electronics,Kalimantan,2,2250779,0.15,3826324,1372851,Dibatalkan
+ORD-1342,2024-04-13,Celana,Fashion,Bali,7,4974152,0.0,34819064,7116229,Selesai
+ORD-1343,2023-05-01,Snack,Food & Beverage,Sumatera,10,760951,0.15,6468084,906724,Selesai
+ORD-1344,2024-09-02,Smartphone,Electronics,Sumatera,6,1235801,0.1,6673325,1445035,Dibatalkan
+ORD-1345,2024-10-22,Kaos,Fashion,Sumatera,3,4132485,0.15,10537837,2752628,Dibatalkan
+ORD-1346,2024-04-06,Tablet,Electronics,Bali,5,1226892,0.0,6134460,1192380,Selesai
+ORD-1347,2024-07-29,Sepatu,Fashion,Bali,8,1195336,0.0,9562688,3294966,Diproses
+ORD-1348,2024-08-01,Kaos,Fashion,Jawa,7,3773298,0.05,25092432,3768282,Selesai
+ORD-1349,2024-04-13,Sepatu,Fashion,Bali,5,1936123,0.1,8712554,1625772,Diproses
+ORD-1350,2024-07-10,Coklat,Food & Beverage,Kalimantan,2,4854273,0.0,9708546,1751098,Dibatalkan
+ORD-1351,2024-10-31,Tablet,Electronics,Sumatera,9,1883262,0.05,16101890,2104918,Selesai
+ORD-1352,2024-03-25,Tablet,Electronics,Jawa,5,2974075,0.2,11896300,4104444,Selesai
+ORD-1353,2023-07-31,Smartwatch,Electronics,Sumatera,6,3641725,0.0,21850350,6223971,Selesai
+ORD-1354,2023-11-28,Snack,Food & Beverage,Kalimantan,9,2407912,0.1,19504087,5102865,Selesai
+ORD-1355,2024-02-26,Snack,Food & Beverage,Jawa,9,848806,0.0,7639254,2970383,Selesai
+ORD-1356,2023-09-11,Teh,Food & Beverage,Sulawesi,3,2144444,0.0,6433332,2016325,Diproses
+ORD-1357,2024-10-10,Smartwatch,Electronics,Jawa,5,3524771,0.05,16742662,3944530,Diproses
+ORD-1358,2023-01-03,Snack,Food & Beverage,Jawa,6,3864263,0.05,22026299,4365321,Diproses
+ORD-1359,2024-03-15,Snack,Food & Beverage,Sumatera,2,4533077,0.05,8612846,1424125,Diproses
+ORD-1360,2024-08-02,Tas,Fashion,Sulawesi,5,2883295,0.1,12974828,3547060,Selesai
+ORD-1361,2024-04-15,Kopi,Food & Beverage,Jawa,1,885293,0.15,752499,252213,Selesai
+ORD-1362,2024-12-06,Tablet,Electronics,Sumatera,8,55670,0.05,423092,67989,Selesai
+ORD-1363,2024-11-11,Headphone,Electronics,Sumatera,2,3073551,0.0,6147102,766704,Selesai
+ORD-1364,2023-04-08,Tas,Fashion,Jawa,4,3650650,0.15,12412210,1580816,Selesai
+ORD-1365,2023-01-10,Sepatu,Fashion,Jawa,3,1947426,0.1,5258050,1598420,Selesai
+ORD-1366,2023-04-02,Tablet,Electronics,Jawa,3,4057240,0.0,12171720,2053175,Selesai
+ORD-1367,2023-05-17,Tas,Fashion,Sumatera,5,1200323,0.05,5701534,1893127,Selesai
+ORD-1368,2023-08-07,Coklat,Food & Beverage,Sumatera,1,1426709,0.05,1355374,278335,Diproses
+ORD-1369,2023-05-07,Minuman Energi,Food & Beverage,Bali,4,777191,0.0,3108764,441457,Diproses
+ORD-1370,2023-03-28,Kaos,Fashion,Sumatera,6,1222980,0.0,7337880,1343495,Dibatalkan
+ORD-1371,2023-01-28,Coklat,Food & Beverage,Kalimantan,10,2440088,0.2,19520704,7464400,Selesai
+ORD-1372,2024-10-23,Coklat,Food & Beverage,Jawa,9,1632481,0.15,12488480,2716560,Selesai
+ORD-1373,2023-03-14,Kaos,Fashion,Bali,2,2072340,0.05,3937446,1147469,Selesai
+ORD-1374,2024-03-06,Tas,Fashion,Kalimantan,3,3295034,0.2,7908082,2781209,Dibatalkan
+ORD-1375,2023-01-15,Teh,Food & Beverage,Kalimantan,8,662299,0.0,5298392,1463464,Selesai
+ORD-1376,2024-05-28,Laptop,Electronics,Sulawesi,7,4299757,0.0,30098299,8685503,Diproses
+ORD-1377,2023-10-12,Minuman Energi,Food & Beverage,Jawa,2,4551031,0.1,8191856,2333156,Selesai
+ORD-1378,2024-08-23,Smartwatch,Electronics,Jawa,4,1353397,0.1,4872229,964824,Selesai
+ORD-1379,2024-03-20,Minuman Energi,Food & Beverage,Jawa,4,535750,0.0,2143000,269726,Diproses
+ORD-1380,2023-06-29,Coklat,Food & Beverage,Jawa,1,2644513,0.15,2247836,724945,Selesai
+ORD-1381,2024-06-19,Teh,Food & Beverage,Bali,1,1424327,0.05,1353111,522172,Selesai
+ORD-1382,2023-01-31,Headphone,Electronics,Kalimantan,3,2304559,0.15,5876625,2150401,Diproses
+ORD-1383,2024-10-04,Celana,Fashion,Jawa,2,2255781,0.15,3834828,1505228,Diproses
+ORD-1384,2023-06-20,Celana,Fashion,Kalimantan,6,515056,0.05,2935819,1050459,Selesai
+ORD-1385,2023-01-03,Sepatu,Fashion,Jawa,10,1017488,0.0,10174880,3278692,Selesai
+ORD-1386,2023-07-03,Laptop,Electronics,Jawa,8,3103256,0.05,23584746,8869467,Dibatalkan
+ORD-1387,2023-11-24,Minuman Energi,Food & Beverage,Kalimantan,4,2749470,0.0,10997880,2473170,Selesai
+ORD-1388,2023-07-03,Snack,Food & Beverage,Sumatera,2,4261424,0.15,7244421,2684654,Dibatalkan
+ORD-1389,2023-11-15,Tablet,Electronics,Kalimantan,2,3951492,0.2,6322387,1167695,Selesai
+ORD-1390,2023-11-08,Minuman Energi,Food & Beverage,Bali,1,3144719,0.0,3144719,589567,Selesai
+ORD-1391,2024-07-13,Tas,Fashion,Sumatera,10,4188609,0.2,33508872,11150606,Selesai
+ORD-1392,2024-12-11,Tablet,Electronics,Jawa,1,2004526,0.1,1804073,367899,Selesai
+ORD-1393,2023-09-01,Tablet,Electronics,Sulawesi,5,921987,0.0,4609935,1193717,Diproses
+ORD-1394,2024-06-16,Smartphone,Electronics,Sulawesi,5,830364,0.0,4151820,1562672,Selesai
+ORD-1395,2024-02-08,Sepatu,Fashion,Jawa,10,851758,0.1,7665822,1073630,Dibatalkan
+ORD-1396,2023-11-19,Kopi,Food & Beverage,Sulawesi,7,1146460,0.0,8025220,1504751,Selesai
+ORD-1397,2023-05-20,Kaos,Fashion,Bali,5,2009673,0.0,10048365,3849191,Selesai
+ORD-1398,2023-05-04,Laptop,Electronics,Bali,3,3821239,0.05,10890531,2115050,Selesai
+ORD-1399,2023-04-03,Tablet,Electronics,Sumatera,5,3936832,0.0,19684160,7002535,Selesai
+ORD-1400,2023-06-01,Coklat,Food & Beverage,Jawa,1,1853725,0.2,1482980,529382,Selesai
+ORD-1401,2023-06-28,Kaos,Fashion,Jawa,9,460627,0.15,3523797,668296,Diproses
+ORD-1402,2023-05-24,Celana,Fashion,Jawa,9,2145915,0.0,19313235,4608388,Selesai
+ORD-1403,2024-12-03,Smartphone,Electronics,Jawa,3,1712060,0.2,4108944,904685,Dibatalkan
+ORD-1404,2024-10-23,Snack,Food & Beverage,Sulawesi,2,232873,0.0,465746,74205,Selesai
+ORD-1405,2024-08-10,Headphone,Electronics,Sulawesi,2,408162,0.05,775508,89332,Diproses
+ORD-1406,2023-07-11,Sepatu,Fashion,Kalimantan,7,3629117,0.0,25403819,5237835,Selesai
+ORD-1407,2024-02-26,Jaket,Fashion,Bali,1,2111792,0.15,1795023,338419,Diproses
+ORD-1408,2024-10-20,Laptop,Electronics,Bali,5,3262965,0.0,16314825,3683405,Selesai
+ORD-1409,2024-05-06,Coklat,Food & Beverage,Bali,1,3258626,0.2,2606901,818596,Diproses
+ORD-1410,2023-01-27,Celana,Fashion,Kalimantan,9,2747813,0.05,23493801,4255449,Dibatalkan
+ORD-1411,2024-06-26,Laptop,Electronics,Kalimantan,5,541498,0.2,2165992,860894,Dibatalkan
+ORD-1412,2024-06-30,Smartphone,Electronics,Jawa,2,2129175,0.15,3619598,623823,Selesai
+ORD-1413,2023-11-22,Minuman Energi,Food & Beverage,Kalimantan,6,1507202,0.0,9043212,1546076,Dibatalkan
+ORD-1414,2023-07-12,Headphone,Electronics,Sulawesi,10,4777873,0.0,47778730,12849261,Dibatalkan
+ORD-1415,2024-09-08,Jaket,Fashion,Sumatera,8,368462,0.0,2947696,344439,Selesai
+ORD-1416,2023-05-14,Minuman Energi,Food & Beverage,Kalimantan,1,2832786,0.1,2549507,409041,Selesai
+ORD-1417,2023-05-26,Sepatu,Fashion,Jawa,1,1289098,0.1,1160188,361293,Dibatalkan
+ORD-1418,2023-11-06,Sepatu,Fashion,Kalimantan,6,3368496,0.1,18189878,2370317,Selesai
+ORD-1419,2024-07-29,Tablet,Electronics,Bali,8,2711566,0.0,21692528,6771428,Selesai
+ORD-1420,2023-10-29,Smartwatch,Electronics,Sumatera,3,3224115,0.0,9672345,3097070,Selesai
+ORD-1421,2024-08-04,Kopi,Food & Beverage,Jawa,10,3334990,0.2,26679920,10626210,Selesai
+ORD-1422,2024-05-23,Snack,Food & Beverage,Sumatera,10,1903003,0.15,16175526,4361974,Selesai
+ORD-1423,2023-04-01,Kopi,Food & Beverage,Kalimantan,4,2959254,0.0,11837016,1779887,Diproses
+ORD-1424,2023-09-20,Headphone,Electronics,Jawa,4,2143300,0.15,7287220,876933,Selesai
+ORD-1425,2024-05-19,Tablet,Electronics,Sulawesi,8,3570306,0.0,28562448,10435736,Selesai
+ORD-1426,2024-10-28,Minuman Energi,Food & Beverage,Sumatera,2,4072247,0.2,6515595,2340501,Selesai
+ORD-1427,2023-04-18,Sepatu,Fashion,Jawa,1,2523872,0.0,2523872,493707,Selesai
+ORD-1428,2023-04-06,Tablet,Electronics,Kalimantan,3,679165,0.1,1833746,701500,Dibatalkan
+ORD-1429,2024-03-20,Minuman Energi,Food & Beverage,Sumatera,1,3668202,0.15,3117972,466134,Selesai
+ORD-1430,2024-07-07,Headphone,Electronics,Kalimantan,4,1643703,0.05,6246071,1931029,Selesai
+ORD-1431,2024-05-17,Jaket,Fashion,Sumatera,2,466372,0.05,886107,240605,Selesai
+ORD-1432,2024-10-02,Sepatu,Fashion,Bali,7,785079,0.0,5495553,1907887,Diproses
+ORD-1433,2023-03-25,Laptop,Electronics,Sulawesi,1,1786047,0.0,1786047,520556,Selesai
+ORD-1434,2024-10-19,Kaos,Fashion,Bali,8,4152841,0.15,28239319,5068995,Diproses
+ORD-1435,2023-09-27,Headphone,Electronics,Sulawesi,7,3148765,0.0,22041355,5151783,Diproses
+ORD-1436,2024-12-14,Jaket,Fashion,Jawa,5,4783243,0.0,23916215,3475964,Selesai
+ORD-1437,2024-07-20,Snack,Food & Beverage,Jawa,9,3522771,0.2,25363951,7023733,Diproses
+ORD-1438,2024-05-02,Minuman Energi,Food & Beverage,Kalimantan,9,4033115,0.1,32668232,11907445,Selesai
+ORD-1439,2024-11-24,Sepatu,Fashion,Bali,9,4841740,0.1,39218094,13339450,Selesai
+ORD-1440,2023-05-10,Tablet,Electronics,Jawa,3,1452279,0.0,4356837,1492383,Diproses
+ORD-1441,2023-11-24,Tablet,Electronics,Jawa,4,1290492,0.2,4129574,1150146,Selesai
+ORD-1442,2024-06-16,Celana,Fashion,Sulawesi,7,4680966,0.0,32766762,11697316,Selesai
+ORD-1443,2024-02-29,Coklat,Food & Beverage,Sumatera,10,4433567,0.2,35468536,8011567,Selesai
+ORD-1444,2023-04-14,Coklat,Food & Beverage,Kalimantan,10,890572,0.0,8905720,2393903,Dibatalkan
+ORD-1445,2024-09-15,Kaos,Fashion,Sulawesi,5,3263201,0.15,13868604,3407175,Selesai
+ORD-1446,2024-12-11,Headphone,Electronics,Sulawesi,7,1256723,0.1,7917355,2237417,Selesai
+ORD-1447,2023-10-03,Tas,Fashion,Kalimantan,4,463482,0.15,1575839,382244,Selesai
+ORD-1448,2024-12-13,Tas,Fashion,Jawa,5,2401718,0.2,9606872,2377564,Selesai
+ORD-1449,2024-09-11,Headphone,Electronics,Jawa,8,2741638,0.0,21933104,6988760,Selesai
+ORD-1450,2024-01-18,Jaket,Fashion,Jawa,7,4113947,0.2,23038103,5873574,Dibatalkan
+ORD-1451,2024-06-20,Laptop,Electronics,Bali,5,4301306,0.05,20431204,2874567,Selesai
+ORD-1452,2023-02-21,Smartphone,Electronics,Kalimantan,4,533414,0.0,2133656,234534,Selesai
+ORD-1453,2023-05-07,Tas,Fashion,Jawa,8,4287307,0.05,32583533,9469522,Selesai
+ORD-1454,2024-04-30,Kaos,Fashion,Bali,10,3792186,0.0,37921860,14719602,Dibatalkan
+ORD-1455,2023-04-03,Tas,Fashion,Kalimantan,3,2219796,0.15,5660480,1976985,Selesai
+ORD-1456,2023-08-15,Sepatu,Fashion,Sumatera,3,4850448,0.2,11641075,4533911,Selesai
+ORD-1457,2024-11-29,Kaos,Fashion,Jawa,9,218211,0.2,1571119,524897,Diproses
+ORD-1458,2023-11-09,Smartphone,Electronics,Kalimantan,10,120998,0.0,1209980,212614,Diproses
+ORD-1459,2024-11-24,Tas,Fashion,Bali,8,2163918,0.0,17311344,4154885,Dibatalkan
+ORD-1460,2024-01-19,Celana,Fashion,Bali,2,111635,0.1,200943,80343,Dibatalkan
+ORD-1461,2023-10-11,Snack,Food & Beverage,Kalimantan,5,956846,0.05,4545018,541544,Selesai
+ORD-1462,2023-02-28,Tas,Fashion,Bali,4,1307698,0.1,4707713,1551861,Diproses
+ORD-1463,2023-10-30,Snack,Food & Beverage,Kalimantan,3,263534,0.15,672012,167473,Diproses
+ORD-1464,2023-07-14,Kaos,Fashion,Kalimantan,1,4940757,0.15,4199643,1673248,Selesai
+ORD-1465,2023-06-24,Coklat,Food & Beverage,Bali,8,3057291,0.1,22012495,4183661,Selesai
+ORD-1466,2024-07-26,Sepatu,Fashion,Sumatera,8,1123273,0.15,7638256,1356520,Selesai
+ORD-1467,2023-11-11,Kopi,Food & Beverage,Sulawesi,4,3030333,0.0,12121332,3918378,Selesai
+ORD-1468,2024-04-26,Tas,Fashion,Jawa,10,2516679,0.05,23908450,8496207,Dibatalkan
+ORD-1469,2024-11-28,Coklat,Food & Beverage,Sulawesi,2,4011265,0.0,8022530,2006781,Dibatalkan
+ORD-1470,2023-12-17,Kaos,Fashion,Sulawesi,1,1314821,0.0,1314821,522910,Dibatalkan
+ORD-1471,2023-12-07,Jaket,Fashion,Sumatera,6,1562942,0.2,7502122,932089,Selesai
+ORD-1472,2023-06-22,Kopi,Food & Beverage,Bali,1,3842097,0.0,3842097,625550,Selesai
+ORD-1473,2024-03-15,Sepatu,Fashion,Sulawesi,3,3688235,0.15,9404999,2152079,Diproses
+ORD-1474,2023-01-15,Laptop,Electronics,Kalimantan,9,1722807,0.15,13179474,2793131,Dibatalkan
+ORD-1475,2023-12-19,Laptop,Electronics,Kalimantan,1,2137279,0.0,2137279,658405,Selesai
+ORD-1476,2023-02-16,Tablet,Electronics,Kalimantan,9,4988127,0.0,44893143,6738733,Selesai
+ORD-1477,2024-12-04,Celana,Fashion,Sumatera,10,4446617,0.0,44466170,10231647,Selesai
+ORD-1478,2023-08-22,Tas,Fashion,Sumatera,4,1433143,0.2,4586058,1013599,Selesai
+ORD-1479,2024-12-29,Laptop,Electronics,Jawa,10,4283173,0.0,42831730,5865745,Diproses
+ORD-1480,2024-11-08,Snack,Food & Beverage,Jawa,9,457576,0.1,3706366,1476631,Selesai
+ORD-1481,2023-09-16,Laptop,Electronics,Sulawesi,7,3777178,0.05,25118234,3443170,Selesai
+ORD-1482,2024-06-16,Laptop,Electronics,Kalimantan,5,3580525,0.15,15217231,1982713,Dibatalkan
+ORD-1483,2023-05-01,Teh,Food & Beverage,Kalimantan,7,930084,0.1,5859529,1849442,Selesai
+ORD-1484,2024-06-19,Tablet,Electronics,Sumatera,4,1725619,0.2,5521981,987872,Selesai
+ORD-1485,2023-08-01,Minuman Energi,Food & Beverage,Sulawesi,5,1395311,0.0,6976555,1844892,Selesai
+ORD-1486,2024-11-16,Laptop,Electronics,Sulawesi,1,796609,0.0,796609,279267,Selesai
+ORD-1487,2024-04-12,Smartwatch,Electronics,Kalimantan,2,899686,0.0,1799372,527758,Selesai
+ORD-1488,2023-10-25,Sepatu,Fashion,Kalimantan,2,1515504,0.2,2424806,271174,Selesai
+ORD-1489,2024-11-10,Sepatu,Fashion,Sumatera,2,434945,0.0,869890,309333,Selesai
+ORD-1490,2023-12-17,Kaos,Fashion,Sumatera,10,2300742,0.15,19556307,2500966,Selesai
+ORD-1491,2024-05-04,Kaos,Fashion,Sulawesi,8,2330301,0.2,14913926,3217152,Selesai
+ORD-1492,2024-08-27,Smartphone,Electronics,Sulawesi,1,1387105,0.0,1387105,311833,Dibatalkan
+ORD-1493,2023-01-30,Minuman Energi,Food & Beverage,Sumatera,3,3235580,0.2,7765392,1611938,Diproses
+ORD-1494,2024-11-01,Sepatu,Fashion,Kalimantan,7,3746757,0.0,26227299,3121070,Selesai
+ORD-1495,2024-11-16,Coklat,Food & Beverage,Kalimantan,10,4789666,0.0,47896660,18841045,Dibatalkan
+ORD-1496,2024-05-08,Coklat,Food & Beverage,Kalimantan,2,3680991,0.15,6257685,1989916,Diproses
+ORD-1497,2023-06-10,Smartwatch,Electronics,Bali,10,507733,0.0,5077330,1487757,Diproses
+ORD-1498,2023-10-12,Jaket,Fashion,Jawa,2,4174242,0.0,8348484,1438173,Dibatalkan
+ORD-1499,2024-04-15,Smartwatch,Electronics,Sulawesi,7,3432932,0.2,19224419,3277763,Dibatalkan
